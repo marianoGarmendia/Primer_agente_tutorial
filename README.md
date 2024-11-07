@@ -4,6 +4,11 @@
 
 ##
 
+
+💻📄
+ **Es una serie de videos asi que te recomiendo hacer un FORK del proyecto para que también puedas ir incorporando las actualizaciones**
+
+##
 ### Descripción
 
 En este ejemplo vas a ver conceptos claves como:

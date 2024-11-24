@@ -33,4 +33,8 @@ async function main() {
   }
 }
 
-main();
+// main();
+
+// Contruimos el grafo
+
+const stateGraph = MessagesAnnotation;
